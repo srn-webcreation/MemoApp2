@@ -6,4 +6,4 @@ https://www.udemy.com/course/react-native-ios-android/　　
 
 ## 学習目的
 ・react nativeの基礎を手を動かしながら学ぶ  
-・UIのデザインからios,androidのビルドまでの一連の流れを掴む
+・UIのデザインからAppStore,googleplaystoreでの公開までの一連の流れを掴む
